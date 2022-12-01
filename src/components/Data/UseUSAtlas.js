@@ -1,4 +1,5 @@
 import { useState, useEffect } from 'react';
+import { feature, mesh } from 'topojson';
 import { json } from 'd3';
 
 const jsonUrl = 'https://cdn.jsdelivr.net/npm/us-atlas@3/states-albers-10m.json';
@@ -8,13 +9,14 @@ const jsonUrl = 'https://cdn.jsdelivr.net/npm/us-atlas@3/states-albers-10m.json'
 export const UseUSAtlas = () => {
   const [data, setData] = useState(null);
   console.log(data);
-
   useEffect(() => {
     json(jsonUrl).then(topojsonData => {
-      //const { countries } = topojsonData.objects;
-      //feature(topojsonData, countries);
-      const {states} = topojsonData.objects.states;
-      setData(topojsonData);
+      const {states, nation} = topojsonData.objects;
+      setData({
+        states: feature(topojsonData, states),
+        nation: feature(topojsonData, nation),
+        interiors: mesh(topojsonData, states, (a, b) => a !== b)
+      });
     });
   }, []);
 
