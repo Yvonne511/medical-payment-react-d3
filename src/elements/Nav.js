@@ -16,7 +16,10 @@ const Nav = () => {
             <Link style={linkStyle} to="/">Home</Link>
           </li>
           <li className = "nav">
-            <Link  style={linkStyle} to="/data">Data Source</Link>
+            <Link  style={linkStyle} to="/specialty">Drug By Specialty</Link>
+          </li>
+          <li className = "nav">
+            <Link  style={linkStyle} to="/levelofcare">By Level Of Care</Link>
           </li>
         </ul>
       </nav>
