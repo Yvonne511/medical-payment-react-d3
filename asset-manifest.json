@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/medical-payment-react-d3/static/css/main.782a68de.css",
+    "main.js": "/medical-payment-react-d3/static/js/main.cc7bb81e.js",
+    "static/js/787.1dc07d9f.chunk.js": "/medical-payment-react-d3/static/js/787.1dc07d9f.chunk.js",
+    "static/media/paymentGroupByState.csv": "/medical-payment-react-d3/static/media/paymentGroupByState.cde6ec7c67e95085d300.csv",
+    "index.html": "/medical-payment-react-d3/index.html",
+    "main.782a68de.css.map": "/medical-payment-react-d3/static/css/main.782a68de.css.map",
+    "main.cc7bb81e.js.map": "/medical-payment-react-d3/static/js/main.cc7bb81e.js.map",
+    "787.1dc07d9f.chunk.js.map": "/medical-payment-react-d3/static/js/787.1dc07d9f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.782a68de.css",
+    "static/js/main.cc7bb81e.js"
+  ]
+}
