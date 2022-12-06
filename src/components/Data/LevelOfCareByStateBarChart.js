@@ -1,4 +1,4 @@
-import React, {useEffect, useState} from 'react';
+import React from 'react';
 import {csv} from 'd3';
 import * as vega from 'vega';
 import * as vegaLite from 'vega-lite';
@@ -8,19 +8,26 @@ import StateLevelOfCare from './StateLevelOfCare.csv';
 
 export const LevelOfCareByStateBarChart = () => {
     const row = d => {
-    d.Payment = +Number(d.Payment);
+    d.CareLevel = d.LevelOfCare.split(" and ")[0];
+    if (d.LevelOfCare != "Not Available") {
+      d.PaymentLvel = d.LevelOfCare.split(" and ")[1];
+    } else {
+      d.PaymentLvel = "Not Available";
+    }
     return d;
   };
 
   const getData = async () => {
     const data = csv(StateLevelOfCare, row);
+    console.log(data);
     return data;
   };
 
-  const viz = vl.markBar().encode(
-    vl.x().fieldN('State').title('State'),
-    vl.y().fieldQ('Count').scale({ zero: true }).aggregate('sum'),
-    vl.color().fieldN('LevelOfCare').title('Level of Care'),
+  const viz = vl.markCircle().encode(
+    vl.facet().fieldO("State").columns(8),
+    vl.y().fieldN('CareLevel').title('Level of Care').sort(["Not Available", "Better Complications", "Average Complications", "Worse Complications", "Better Mortality", "Average Mortality", "Worse Mortality"]),
+    vl.x().fieldN('PaymentLvel').title('Payment Level').sort(["Higher Payment", "Average Payment", "Lower Payment", "Not Available"]),
+    vl.size().fieldQ('Count').title('Count'),
   );
   vl.register(vega, vegaLite, {
     view: { renderer: 'svg' },
@@ -30,8 +37,8 @@ export const LevelOfCareByStateBarChart = () => {
   const run = async () => {
     const marks = viz
     .data(await getData())
-    .width(1100)
-    .height(600)
+    .width(100)
+    .height(100)
     .autosize({ type: 'fit', contains: 'padding' });
     document.getElementById('vislevelofcare').appendChild(await marks.render());
   };
@@ -40,7 +47,7 @@ export const LevelOfCareByStateBarChart = () => {
 
   return (<>
     <div className="PayBySpecialtyBarChart">
-        <h1>Pay By Level Of Care Bar Chart</h1>
+        <h1>Level Of Pay By Level Of Care</h1>
         <div id="vislevelofcare"></div>
     </div>
     </>);

@@ -1,4 +1,4 @@
-import { geoAlbersUsa, geoPath, geoGraticule } from 'd3';
+import {geoPath} from 'd3';
 
 //const projection = geoAlbersUsa().scale(1300).translate([487.5, 305]);
 const path = geoPath();
