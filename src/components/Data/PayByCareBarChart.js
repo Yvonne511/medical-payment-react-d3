@@ -1,4 +1,4 @@
-import React, {useEffect, useState} from 'react';
+import React from 'react';
 import {csv} from 'd3';
 import * as vega from 'vega';
 import * as vegaLite from 'vega-lite';
