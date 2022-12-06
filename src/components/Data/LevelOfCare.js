@@ -1,11 +1,13 @@
 import "./LevelOfCare.css";
-import { PayBySpecialtyBarChart } from "./PayBySpecialtyBarChart";
+import { LevelOfCareByStateBarChart } from "./LevelOfCareByStateBarChart";
+import {PayByCareBarChart} from "./PayByCareBarChart";
 
 const LevelOfCare = () => {
     return (
         <div>
         <h1>LevelOfCare</h1>
-        <PayBySpecialtyBarChart />
+        <LevelOfCareByStateBarChart />
+        <PayByCareBarChart />
         </div>
     );
 };
