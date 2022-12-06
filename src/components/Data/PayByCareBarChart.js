@@ -4,7 +4,7 @@ import * as vega from 'vega';
 import * as vegaLite from 'vega-lite';
 import * as vl from 'vega-lite-api';
 import * as vegaTooltip from 'vega-tooltip';
-import PayByLevelOfCare from "./PayByLevelOfCare.csv";
+import paymentByLevelOfCare from "./paymentByLevelOfCare.csv";
 
 export const PayByCareBarChart = () => {
   
@@ -14,7 +14,7 @@ export const PayByCareBarChart = () => {
   };
 
   const getData = async () => {
-    const data = csv(PayByLevelOfCare, row);
+    const data = csv(paymentByLevelOfCare, row);
     return data;
   };
 

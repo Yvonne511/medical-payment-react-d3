@@ -21,6 +21,9 @@ const Nav = () => {
           <li className = "nav">
             <Link  style={linkStyle} to="/levelofcare">By Level Of Care</Link>
           </li>
+          <li className = "nav">
+            <Link  style={linkStyle} to="/manufacturer">By Manufacturer</Link>
+          </li>
         </ul>
       </nav>
       

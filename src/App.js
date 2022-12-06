@@ -3,6 +3,7 @@ import Nav from "./elements/Nav";
 import Home from "./components/Home";
 import Specialty from "./components/Data/Specialty";
 import LevelOfCare from "./components/Data/LevelOfCare";
+import Manufacturer from "./components/Data/Manufacturer";
 import './index.css';
 import './App.css';
 
@@ -14,6 +15,7 @@ function App() {
           <Route index element={<Home />} />
           <Route path="specialty" element={<Specialty />} />
           <Route path="levelofcare" element={<LevelOfCare />} />
+          <Route path="manufacturer" element={<Manufacturer />} />
         </Route>
       </Routes>
     </BrowserRouter>

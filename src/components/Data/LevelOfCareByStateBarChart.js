@@ -5,7 +5,6 @@ import * as vegaLite from 'vega-lite';
 import * as vl from 'vega-lite-api';
 import * as vegaTooltip from 'vega-tooltip';
 import StateLevelOfCare from './StateLevelOfCare.csv';
-//import PayByLevelOfCare from './PayByLevelOfCare.csv';
 
 export const LevelOfCareByStateBarChart = () => {
     const row = d => {

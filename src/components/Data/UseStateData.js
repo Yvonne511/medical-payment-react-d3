@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { json } from 'd3';
 import PayByStateData from "./paymentGroupByState.csv";
 import PayByStateDataOY from "./paymentGroupByStateOY.csv";
+import PayByManufactureData from "./paymentByManufacturerState.csv";
 import {csv} from 'd3';
 
 const row = d => {
@@ -28,3 +29,13 @@ export const UseStateDataOY = () => {
 
   return data;
 };
+
+export const UseManufactureStateData = () => {
+  const [data, setStateData] = useState(null);
+  if (data) {console.log(data)};
+  useEffect(() => {
+    csv(PayByManufactureData, row).then(setStateData);
+  }, []);
+
+  return data;
+}; 
