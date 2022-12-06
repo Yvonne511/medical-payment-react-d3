@@ -1,0 +1,384 @@
+State,Specialty,Payment
+CO,Dental Providers,1156720.0099999998
+NY,Podiatric Medicine & Surgery Service Providers,852106.55
+NC,Eye and Vision Services Providers,743027.14
+AZ,Dental Providers,2328985.8100000005
+NH,Eye and Vision Services Providers,30323.989999999998
+AS,Allopathic & Osteopathic Physicians,102.8
+VT,Chiropractic Providers,390.79
+OK,Dental Providers,755915.0100000012
+AL,Nursing Service Providers,6520.710000000001
+SD,Podiatric Medicine & Surgery Service Providers,33389.25
+TX,Chiropractic Providers,13889.9
+SC,Chiropractic Providers,665.4799999999999
+UT,Physician Assistants & Advanced Practice Nursing Providers,1670630.51
+NY,Nursing Service Providers,26385.539999999997
+VT,Eye and Vision Services Providers,2025.16
+MI,Dental Providers,1586457.7300000016
+DC,Podiatric Medicine & Surgery Service Providers,41761.979999999996
+WI,Nursing Service Providers,2288.8600000000006
+ND,Nursing Service Providers,267.26
+CT,Allopathic & Osteopathic Physicians,1.855848210000001E7
+SD,Eye and Vision Services Providers,164096.63999999996
+IA,Podiatric Medicine & Surgery Service Providers,2712859.87
+GA,Dental Providers,1332824.560000001
+VT,Podiatric Medicine & Surgery Service Providers,16555.68
+IL,Nursing Service Providers,8837.320000000003
+IL,Dental Providers,2810616.3399999933
+IA,Allopathic & Osteopathic Physicians,9812656.400000004
+CA,Dental Providers,1.7056781709999956E7
+MN,Dental Providers,1046942.7100000008
+HI,Podiatric Medicine & Surgery Service Providers,12404.229999999998
+NV,Nursing Service Providers,2604.04
+TX,Podiatric Medicine & Surgery Service Providers,1552279.0700000003
+IN,Podiatric Medicine & Surgery Service Providers,565145.1100000002
+MN,Allopathic & Osteopathic Physicians,3.597842780999999E7
+MS,Dental Providers,171886.13000000006
+KY,Chiropractic Providers,1019.36
+WI,Chiropractic Providers,3704.32
+NC,Podiatric Medicine & Surgery Service Providers,177511.78999999998
+KY,Podiatric Medicine & Surgery Service Providers,164821.9500000001
+HI,Physician Assistants & Advanced Practice Nursing Providers,263837.5899999999
+WA,Chiropractic Providers,3123.54
+LA,Chiropractic Providers,1962.94
+IL,Podiatric Medicine & Surgery Service Providers,5137590.699999999
+AE,Dental Providers,38532.82
+OH,Podiatric Medicine & Surgery Service Providers,4484650.799999999
+SD,Dental Providers,70931.78
+MI,Podiatric Medicine & Surgery Service Providers,614943.1400000001
+RI,Eye and Vision Services Providers,172383.97000000006
+KS,Physician Assistants & Advanced Practice Nursing Providers,1172349.06
+IA,Physician Assistants & Advanced Practice Nursing Providers,998151.4300000005
+LA,Podiatric Medicine & Surgery Service Providers,101515.19
+NH,Podiatric Medicine & Surgery Service Providers,9978.220000000001
+TN,Nursing Service Providers,13611.04
+NV,Chiropractic Providers,363.59
+MD,Physician Assistants & Advanced Practice Nursing Providers,1971604.0699999998
+ME,Podiatric Medicine & Surgery Service Providers,40827.17999999999
+HI,Chiropractic Providers,565.1
+AL,Dental Providers,430269.3599999999
+MO,Chiropractic Providers,3883.76
+WV,Eye and Vision Services Providers,61878.42000000003
+CT,Podiatric Medicine & Surgery Service Providers,167441.43999999997
+SC,Allopathic & Osteopathic Physicians,1.692156766E7
+KY,Eye and Vision Services Providers,709159.1200000002
+KS,Eye and Vision Services Providers,335906.7699999999
+MT,Podiatric Medicine & Surgery Service Providers,46455.53
+VI,Dental Providers,875.37
+VI,Allopathic & Osteopathic Physicians,2914.040000000001
+MP,Allopathic & Osteopathic Physicians,11.99
+MT,Physician Assistants & Advanced Practice Nursing Providers,213900.7
+VI,Eye and Vision Services Providers,31.68
+NY,Allopathic & Osteopathic Physicians,1.2777178771999986E8
+NJ,Eye and Vision Services Providers,452681.76000000024
+OK,Eye and Vision Services Providers,504548.50999999983
+NJ,Nursing Service Providers,7123.7
+VI,Physician Assistants & Advanced Practice Nursing Providers,259.59000000000003
+GA,Allopathic & Osteopathic Physicians,3.964292738000003E7
+NV,Dental Providers,865255.3300000003
+NY,Dental Providers,4796629.9699999895
+MA,Chiropractic Providers,10159.06
+OH,Eye and Vision Services Providers,912614.6099999999
+OR,Physician Assistants & Advanced Practice Nursing Providers,587117.2199999999
+FL,Chiropractic Providers,18720.160000000003
+KY,Allopathic & Osteopathic Physicians,1.8645609389999997E7
+AL,Physician Assistants & Advanced Practice Nursing Providers,2157130.800000001
+DE,Podiatric Medicine & Surgery Service Providers,36646.42
+WA,Eye and Vision Services Providers,315518.86
+ND,Podiatric Medicine & Surgery Service Providers,24020.71
+ID,Nursing Service Providers,904.63
+MD,Chiropractic Providers,975.8
+MO,Podiatric Medicine & Surgery Service Providers,547871.4999999998
+CO,Allopathic & Osteopathic Physicians,4.601110610000002E7
+TX,Eye and Vision Services Providers,1632818.2900000012
+VT,Allopathic & Osteopathic Physicians,1318193.52
+AP,Allopathic & Osteopathic Physicians,19377.340000000004
+FL,Eye and Vision Services Providers,1455493.2200000016
+NY,Eye and Vision Services Providers,1056100.3900000001
+GA,Nursing Service Providers,40346.34000000002
+WY,Chiropractic Providers,118.61
+FL,Dental Providers,4216882.859999996
+AZ,Podiatric Medicine & Surgery Service Providers,1514323.0199999998
+RI,Allopathic & Osteopathic Physicians,4728064.4399999995
+AZ,Physician Assistants & Advanced Practice Nursing Providers,3454584.0300000007
+CO,Podiatric Medicine & Surgery Service Providers,1397436.8499999999
+CO,Chiropractic Providers,1135.9800000000002
+VT,Dental Providers,10823.800000000001
+AR,Chiropractic Providers,128.19
+VI,Podiatric Medicine & Surgery Service Providers,67.76
+TN,Eye and Vision Services Providers,347164.5100000001
+NV,Podiatric Medicine & Surgery Service Providers,138908.96999999997
+MI,Nursing Service Providers,9483.22
+AE,Allopathic & Osteopathic Physicians,2474.2700000000004
+ID,Allopathic & Osteopathic Physicians,5093344.820000005
+TN,Dental Providers,686745.8299999998
+KY,Nursing Service Providers,2308.5699999999997
+UT,Eye and Vision Services Providers,148354.98
+RI,Physician Assistants & Advanced Practice Nursing Providers,366302.58
+OH,Dental Providers,1495110.65
+AZ,Eye and Vision Services Providers,583811.2700000001
+MD,Dental Providers,1054518.4200000009
+PR,Allopathic & Osteopathic Physicians,4442795.200000001
+NH,Dental Providers,131377.72
+HI,Eye and Vision Services Providers,92119.67000000004
+CT,Chiropractic Providers,1308.52
+AP,Podiatric Medicine & Surgery Service Providers,1200.0
+MO,Allopathic & Osteopathic Physicians,3.3080833599999987E7
+DE,Dental Providers,37089.11000000001
+SD,Allopathic & Osteopathic Physicians,3987417.4200000004
+ND,Allopathic & Osteopathic Physicians,1999407.2700000003
+OH,Nursing Service Providers,13987.279999999997
+VA,Chiropractic Providers,2282.73
+IN,Physician Assistants & Advanced Practice Nursing Providers,2724557.2499999995
+CT,Dental Providers,659109.3700000001
+VA,Eye and Vision Services Providers,322454.75000000006
+CT,Physician Assistants & Advanced Practice Nursing Providers,1735697.0899999994
+OR,Nursing Service Providers,1183.7100000000003
+ND,Dental Providers,150675.75999999995
+VA,Allopathic & Osteopathic Physicians,3.794722839000002E7
+SC,Podiatric Medicine & Surgery Service Providers,119423.65000000002
+AE,Physician Assistants & Advanced Practice Nursing Providers,5771.25
+NM,Dental Providers,315596.99999999994
+OH,Chiropractic Providers,1377.6299999999999
+NE,Physician Assistants & Advanced Practice Nursing Providers,995071.7499999999
+AR,Podiatric Medicine & Surgery Service Providers,52529.36999999997
+PA,Podiatric Medicine & Surgery Service Providers,1585632.25
+MN,Eye and Vision Services Providers,181160.78
+WI,Eye and Vision Services Providers,211377.42999999993
+WV,Dental Providers,166927.09
+NE,Dental Providers,186061.37000000005
+MS,Podiatric Medicine & Surgery Service Providers,14846.24
+CT,Eye and Vision Services Providers,195141.58000000002
+MO,Nursing Service Providers,12224.630000000001
+OK,Podiatric Medicine & Surgery Service Providers,58904.83000000001
+AL,Eye and Vision Services Providers,263930.39999999997
+WV,Chiropractic Providers,434.64000000000004
+WY,Dental Providers,31671.989999999998
+IN,Chiropractic Providers,1864.9
+IA,Nursing Service Providers,996.9099999999997
+VT,Nursing Service Providers,207.32999999999998
+OH,Physician Assistants & Advanced Practice Nursing Providers,4592677.920000004
+NE,Eye and Vision Services Providers,80824.52
+NH,Nursing Service Providers,525.0699999999999
+NH,Chiropractic Providers,120.69
+SC,Eye and Vision Services Providers,198340.2399999999
+MS,Physician Assistants & Advanced Practice Nursing Providers,1672013.3500000003
+MD,Eye and Vision Services Providers,167315.36
+AK,Podiatric Medicine & Surgery Service Providers,8797.050000000001
+CA,Podiatric Medicine & Surgery Service Providers,4198678.46
+OK,Chiropractic Providers,803.74
+AR,Eye and Vision Services Providers,51065.03999999999
+PR,Chiropractic Providers,1196.74
+IN,Eye and Vision Services Providers,323074.50999999983
+LA,Physician Assistants & Advanced Practice Nursing Providers,2614701.0800000005
+IN,Nursing Service Providers,11390.769999999999
+MO,Dental Providers,748980.6199999969
+WY,Podiatric Medicine & Surgery Service Providers,776.32
+MP,Dental Providers,130.41
+GA,Chiropractic Providers,2122.86
+IN,Allopathic & Osteopathic Physicians,2.8095921000000022E7
+VA,Podiatric Medicine & Surgery Service Providers,459735.8199999997
+AK,Physician Assistants & Advanced Practice Nursing Providers,192414.6
+GA,Eye and Vision Services Providers,586091.0699999998
+LA,Nursing Service Providers,4221.19
+MN,Podiatric Medicine & Surgery Service Providers,1103342.6599999997
+VA,Dental Providers,1316611.1500000006
+NM,Allopathic & Osteopathic Physicians,3071936.06
+CA,Allopathic & Osteopathic Physicians,2.6204916018999973E8
+MA,Allopathic & Osteopathic Physicians,9.309049878000021E7
+KS,Chiropractic Providers,327.7
+KS,Nursing Service Providers,2871.7000000000003
+NJ,Chiropractic Providers,9681.480000000001
+MN,Nursing Service Providers,271.6
+AK,Chiropractic Providers,392.45
+ID,Eye and Vision Services Providers,62865.66000000001
+WI,Physician Assistants & Advanced Practice Nursing Providers,1278705.35
+CO,Physician Assistants & Advanced Practice Nursing Providers,2105548.6200000006
+NJ,Physician Assistants & Advanced Practice Nursing Providers,2305906.040000001
+NJ,Dental Providers,1574918.8699999945
+NV,Eye and Vision Services Providers,271781.26999999996
+VT,Physician Assistants & Advanced Practice Nursing Providers,7803.15
+TN,Allopathic & Osteopathic Physicians,4.837415494999984E7
+WA,Physician Assistants & Advanced Practice Nursing Providers,1430659.07
+MT,Eye and Vision Services Providers,7496.729999999999
+OR,Dental Providers,545059.9500000002
+TN,Physician Assistants & Advanced Practice Nursing Providers,5094913.250000002
+AZ,Nursing Service Providers,24950.130000000005
+HI,Allopathic & Osteopathic Physicians,3363961.06
+ME,Physician Assistants & Advanced Practice Nursing Providers,151109.84000000003
+WI,Allopathic & Osteopathic Physicians,2.2179292540000025E7
+KS,Podiatric Medicine & Surgery Service Providers,80815.60999999999
+ME,Dental Providers,66539.95
+ND,Chiropractic Providers,68.61
+NV,Allopathic & Osteopathic Physicians,1.6188139499999994E7
+AR,Nursing Service Providers,899.28
+FL,Allopathic & Osteopathic Physicians,1.5356870173999977E8
+WA,Allopathic & Osteopathic Physicians,1.4080346914000016E8
+MS,Allopathic & Osteopathic Physicians,8795250.97
+RI,Nursing Service Providers,524.0200000000001
+AK,Eye and Vision Services Providers,10902.11
+WI,Dental Providers,472698.20999999996
+MN,Chiropractic Providers,651.18
+WA,Nursing Service Providers,2478.2799999999997
+NE,Chiropractic Providers,262.20000000000005
+ME,Allopathic & Osteopathic Physicians,2159890.21
+TX,Nursing Service Providers,32280.440000000002
+CA,Physician Assistants & Advanced Practice Nursing Providers,9127333.240000004
+WV,Allopathic & Osteopathic Physicians,4349042.08
+AL,Allopathic & Osteopathic Physicians,1.8021979390000015E7
+PA,Physician Assistants & Advanced Practice Nursing Providers,5602369.650000001
+HI,Nursing Service Providers,1573.8899999999999
+ME,Nursing Service Providers,386.74
+DE,Allopathic & Osteopathic Physicians,2795212.1799999992
+IL,Chiropractic Providers,8380.470000000001
+WI,Podiatric Medicine & Surgery Service Providers,359859.16000000003
+ND,Eye and Vision Services Providers,16085.170000000004
+MA,Physician Assistants & Advanced Practice Nursing Providers,1611844.6500000006
+PA,Eye and Vision Services Providers,1023926.5099999999
+PA,Chiropractic Providers,18450.049999999996
+NE,Nursing Service Providers,1190.7599999999998
+MD,Allopathic & Osteopathic Physicians,3.653154214000002E7
+RI,Chiropractic Providers,45.72
+MS,Eye and Vision Services Providers,96426.97
+AL,Chiropractic Providers,291.46
+CT,Nursing Service Providers,3383.9
+PA,Allopathic & Osteopathic Physicians,7.398125774000011E7
+SD,Physician Assistants & Advanced Practice Nursing Providers,238408.43999999997
+SC,Physician Assistants & Advanced Practice Nursing Providers,2142127.5899999994
+OK,Allopathic & Osteopathic Physicians,1.3231132740000002E7
+IN,Dental Providers,681874.4299999996
+OH,Allopathic & Osteopathic Physicians,5.9970117870000064E7
+IL,Physician Assistants & Advanced Practice Nursing Providers,3241069.580000002
+WY,Nursing Service Providers,96.4
+AR,Physician Assistants & Advanced Practice Nursing Providers,1211189.56
+PR,Dental Providers,62660.430000000015
+DC,Chiropractic Providers,20.4
+MO,Eye and Vision Services Providers,315240.6299999999
+NM,Physician Assistants & Advanced Practice Nursing Providers,327531.38999999996
+AK,Allopathic & Osteopathic Physicians,689879.2200000002
+MA,Eye and Vision Services Providers,140854.72999999995
+MT,Nursing Service Providers,49.83
+ID,Podiatric Medicine & Surgery Service Providers,69071.15000000001
+WY,Physician Assistants & Advanced Practice Nursing Providers,82596.51999999999
+IA,Eye and Vision Services Providers,55206.21000000003
+NC,Physician Assistants & Advanced Practice Nursing Providers,5164966.580000002
+NY,Chiropractic Providers,59207.42999999998
+WV,Podiatric Medicine & Surgery Service Providers,49667.43
+AR,Dental Providers,135734.16999999993
+NJ,Podiatric Medicine & Surgery Service Providers,1196334.28
+DC,Physician Assistants & Advanced Practice Nursing Providers,347308.99000000005
+CO,Nursing Service Providers,12030.800000000001
+FL,Nursing Service Providers,18263.61
+ID,Physician Assistants & Advanced Practice Nursing Providers,648517.6599999999
+GU,Allopathic & Osteopathic Physicians,6442.6900000000005
+LA,Eye and Vision Services Providers,136440.22999999995
+GU,Physician Assistants & Advanced Practice Nursing Providers,1500.67
+WV,Nursing Service Providers,2778.4799999999996
+AZ,Chiropractic Providers,2980.34
+AE,Eye and Vision Services Providers,2845.6699999999996
+AK,Dental Providers,97474.15999999997
+MI,Chiropractic Providers,4142.540000000001
+MN,Physician Assistants & Advanced Practice Nursing Providers,492970.9400000002
+TN,Chiropractic Providers,2758.81
+WY,Eye and Vision Services Providers,30592.749999999993
+CA,Nursing Service Providers,26410.390000000003
+OR,Chiropractic Providers,531.89
+GU,Dental Providers,922.3
+SC,Nursing Service Providers,6989.95
+IA,Dental Providers,318164.38
+OK,Nursing Service Providers,193948.18999999997
+WY,Allopathic & Osteopathic Physicians,1346295.0100000002
+DC,Eye and Vision Services Providers,8694.24
+PA,Nursing Service Providers,11637.55
+MS,Nursing Service Providers,2299.0099999999998
+AP,Dental Providers,3715.08
+NH,Physician Assistants & Advanced Practice Nursing Providers,309653.9
+VA,Physician Assistants & Advanced Practice Nursing Providers,2959389.109999999
+MA,Podiatric Medicine & Surgery Service Providers,459042.23
+UT,Nursing Service Providers,2686.65
+KS,Allopathic & Osteopathic Physicians,2.4251442069999985E7
+GA,Physician Assistants & Advanced Practice Nursing Providers,4860693.459999998
+FL,Physician Assistants & Advanced Practice Nursing Providers,1.2293601149999997E7
+NH,Allopathic & Osteopathic Physicians,4325484.74
+IA,Chiropractic Providers,2535.2500000000005
+ND,Physician Assistants & Advanced Practice Nursing Providers,226667.91999999993
+PR,Eye and Vision Services Providers,6597.040000000002
+PR,Physician Assistants & Advanced Practice Nursing Providers,6080.789999999999
+VA,Nursing Service Providers,7452.2
+CA,Eye and Vision Services Providers,2728037.759999997
+NC,Dental Providers,2782897.6099999985
+AL,Podiatric Medicine & Surgery Service Providers,21774.589999999993
+MA,Nursing Service Providers,6208.299999999999
+NJ,Allopathic & Osteopathic Physicians,3.643669745999993E7
+KY,Physician Assistants & Advanced Practice Nursing Providers,3144240.98
+SD,Chiropractic Providers,38.7
+DE,Physician Assistants & Advanced Practice Nursing Providers,345143.70999999985
+SD,Nursing Service Providers,277.03000000000003
+MI,Physician Assistants & Advanced Practice Nursing Providers,3219950.980000001
+WA,Dental Providers,3108642.2900000014
+SC,Dental Providers,661839.0
+ME,Eye and Vision Services Providers,15655.709999999997
+TX,Physician Assistants & Advanced Practice Nursing Providers,1.0038185419999987E7
+MO,Physician Assistants & Advanced Practice Nursing Providers,2217696.1500000004
+MD,Nursing Service Providers,6688.369999999998
+NE,Allopathic & Osteopathic Physicians,5989232.88
+AP,Physician Assistants & Advanced Practice Nursing Providers,324.22999999999996
+MT,Chiropractic Providers,46.980000000000004
+OR,Eye and Vision Services Providers,298699.58999999985
+NM,Podiatric Medicine & Surgery Service Providers,549998.97
+IL,Eye and Vision Services Providers,647867.2099999997
+TN,Podiatric Medicine & Surgery Service Providers,258707.86999999997
+WA,Podiatric Medicine & Surgery Service Providers,363153.7100000001
+AK,Nursing Service Providers,923.39
+NM,Nursing Service Providers,1194.05
+PR,Podiatric Medicine & Surgery Service Providers,13637.599999999999
+DC,Allopathic & Osteopathic Physicians,1.0398090040000003E7
+ID,Dental Providers,241734.25000000003
+NY,Physician Assistants & Advanced Practice Nursing Providers,7727403.020000002
+ME,Chiropractic Providers,215.13
+KY,Dental Providers,991800.2300000002
+MT,Dental Providers,89299.09
+NC,Allopathic & Osteopathic Physicians,5.861611217999999E7
+MT,Allopathic & Osteopathic Physicians,919858.65
+NM,Chiropractic Providers,166.9
+DC,Nursing Service Providers,2043.0500000000002
+NM,Eye and Vision Services Providers,21951.539999999994
+DE,Nursing Service Providers,1596.6100000000001
+RI,Podiatric Medicine & Surgery Service Providers,127607.28
+IL,Allopathic & Osteopathic Physicians,6.072242292000005E7
+OR,Allopathic & Osteopathic Physicians,1.0068669989999995E7
+UT,Allopathic & Osteopathic Physicians,2.1359291400000002E7
+KS,Dental Providers,194102.02000000002
+RI,Dental Providers,90069.5
+MA,Dental Providers,2437218.1800000006
+ID,Chiropractic Providers,519.8600000000001
+AP,Eye and Vision Services Providers,347.27
+NC,Nursing Service Providers,16190.390000000001
+LA,Allopathic & Osteopathic Physicians,1.567074452E7
+UT,Dental Providers,4.486141192E7
+DE,Eye and Vision Services Providers,29772.200000000004
+TX,Dental Providers,4276868.43999999
+MS,Chiropractic Providers,168.5
+PA,Dental Providers,1702878.919999999
+FL,Podiatric Medicine & Surgery Service Providers,1709513.0100000014
+WV,Physician Assistants & Advanced Practice Nursing Providers,813368.0599999999
+NV,Physician Assistants & Advanced Practice Nursing Providers,1228040.5199999998
+DE,Chiropractic Providers,3007.7200000000003
+TX,Allopathic & Osteopathic Physicians,1.3388945759000003E8
+CA,Chiropractic Providers,88056.18999999997
+OK,Physician Assistants & Advanced Practice Nursing Providers,1097504.0400000003
+GA,Podiatric Medicine & Surgery Service Providers,411836.58999999985
+LA,Dental Providers,591442.0799999993
+HI,Dental Providers,321725.49
+UT,Chiropractic Providers,3074.7700000000004
+MI,Eye and Vision Services Providers,415991.75999999995
+CO,Eye and Vision Services Providers,234584.31
+UT,Podiatric Medicine & Surgery Service Providers,511249.5300000001
+MD,Podiatric Medicine & Surgery Service Providers,347019.52999999985
+NE,Podiatric Medicine & Surgery Service Providers,160053.80000000002
+DC,Dental Providers,155478.72000000003
+OR,Podiatric Medicine & Surgery Service Providers,105830.02000000003
+MI,Allopathic & Osteopathic Physicians,4.211409691000006E7
+AR,Allopathic & Osteopathic Physicians,7315654.35
+NC,Chiropractic Providers,1990.27
+AZ,Allopathic & Osteopathic Physicians,3.7271630160000056E7
