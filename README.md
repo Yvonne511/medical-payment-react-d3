@@ -12,6 +12,8 @@ I used D3 and React.js to visulize a US map with color scheme to represent diffe
 I used Vega-Lite and React.js to visulize level of payment vs. level of care comapred by state.
 ![Level of payment vs. Level of care](/image_src/PayByCare.png)
 
+We also used matplotlib to make a scatterplot.
+
 ## How to run the webpage
 Download the GitHub file and make sure node.js is installed.
 
